@@ -7,6 +7,7 @@ github내 rendering 오류로 인해 파일 내용이 보이지 않는 경우에
 1. nbviewer사이트 https://nbviewer.jupyter.org 접속
 
 2. 링크란에 https://github.com/younghw4n/deeplearning/blob/master/ipynb파일명.ipynb 입력
+
 예) https://github.com/younghw4n/deeplearning/blob/master/1주차_파이_기초.ipynb
 
 3. 해당 사이트에서 랜더링 된 내용 확인
